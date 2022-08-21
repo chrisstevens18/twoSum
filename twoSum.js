@@ -49,4 +49,4 @@ function twoSum(array, target) {
 var newArr = [3, 5, -4, 8, 11, 1, -1, 5];
 var target1 = 10
 console.log(twoSum(newArr, target1));
-// testing testing testing
+// testing testing testingadadasd
